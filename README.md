@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Microsoft & IBM
 - 📫 How to reach me krishnan028@gmail.com
 - 😄 Pronouns:  A dataset that includes examples of singular "theirs". 
-- ⚡ Fun fact: Bananas are berries, but strawberries aren't!** Bananas fit the berry definition in science, while strawberries don't.
+- ⚡ Fun fact: Bananas are berries, but strawberries aren't! Bananas fit the berry definition in science, while strawberries don't.
 
 <!---
 Krishnan028/Krishnan028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
